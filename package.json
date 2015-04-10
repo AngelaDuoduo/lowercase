@@ -1,0 +1,25 @@
+{
+  "name": "lowercase",
+  "version": "1.0.1",
+  "description": "A demo package",
+  "keywords": [
+      "demo", "lowercase"
+  ],
+  "main": "lowercase.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duoduo (https://github.com/AngelaDuoduo)",
+  "license": "MIT",
+  repository: {
+    "type": "git",
+    "url": "https://github.com/AngelaDuoduo/lowercase"
+  },
+  "engines": {
+      "node": ">=v0.10.5"
+  },
+  "readmeFilename": "README.md"
+}
