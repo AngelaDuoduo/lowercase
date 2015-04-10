@@ -4,4 +4,4 @@ first try on npm init。第一次根据一篇博客做的node.js包，把指定�
 linux使用：lowercase FILEPATH
 windows使用：lowercase.bat FILEPATH, 或者是node lowercase FILEPATH
 
-前提是当前目录为package/bin, 或者将/bin加入环境变量。
+前提是当前目录为package/bin, 因为目录暂时用的是相对路径。
